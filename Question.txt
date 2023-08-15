@@ -1,0 +1,1 @@
+Lab Ex.3: Demonstrate on Geolocation and Canvas in HTML5
